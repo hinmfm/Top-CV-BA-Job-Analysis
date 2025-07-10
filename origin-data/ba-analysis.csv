@@ -1,0 +1,608 @@
+﻿web-scraper-order,job_name,company_name,job_exp,job_salary,company_address,job_domain,job_working_hour,working_address,skills,hiring_amount
+1751524979-1,Nhân Viên Business Analyst,Công ty Cổ phần Đầu tư Mobino,3 năm,Thoả thuận,"Tầng 6, 31 Thọ Tháp, Phường Dịch Vọng, Quận Cầu Giấy, TP Hà Nội",IT - Phần cứng,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 18:00)","380 Lạc Long Quân, Tây Hồ","SQL
+                                    Phân tích dữ liệu
+                                    Truyền Đạt Thông Tin
+                                    Excel Nâng Cao
+                                    Xây Dựng Mô Hình Dữ Liệu",1 người
+1751524986-2,Business Analyst,CÔNG TY CỔ PHẦN TẬP ĐOÀN EVG,2 năm,16 - 22 triệu,"Tầng 5 tòa nhà Sannam, Số 78 phố Duy Tân, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)
+                                                            Thứ 7 (từ 08:30 đến 12:00)","Tầng 5 tòa nhà Sannam, 78 Duy Tân, Cầu Giấy","phân tích yêu cầu
+                                    Mô Hình Hóa Dữ Liệu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Quản Lý Dự Án",1 người
+1751524993-3,Business Analyst (17 - 22 TRIỆU - HÀ NỘI),CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ GIÁO DỤC CHIP CHIP,2 năm,17 - 22 triệu,"Tầng 5, khách sạn thể thao, số 15 Lê Văn Thiêm, Thanh Xuân, Hà Nội.",Giáo dục / Đào tạo,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:15 đến 17:30)
+                                                            Nghỉ Thứ 7, Chủ nhật","15 Lê Văn Thiêm, Thanh Xuân","Quản Lý Dự Án
+                                    phân tích yêu cầu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Mô Hình Hóa Dữ Liệu",1 người
+1751524999-4,Business Analyst (BA),CÔNG TY TNHH KOOBIZ VIỆT NAM,2 năm,15 - 20 triệu,"Số 19, BT6, Đường 6E, khu đô thị Foresa Xuân Phương, Phường Xuân Phương, Quận Nam Từ Liêm, Thành phố Hà Nội, Việt Nam",Tư vấn,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 09:00 đến 17:00)"," Hà Nội: Phường Xuân Phương, Nam Từ Liêm","Thu Thập Và Phân Tích Dữ Liệu
+                                    Phân Tích Yêu Cầu Nghiệp Vụ
+                                    Giao Tiếp Hiệu Quả (trình Bày, Thuyết Trình)
+                                    Mô Hình Hóa Quy Trình Nghiệp Vụ
+                                    Soạn Thảo Tài Liệu (như Srs, Use Case, User Story)",1 người
+1751525006-5,Senior Business Analyst / Chuyên Viên Phân Tích (BA) ( Thu Nhập Upto 30 Triệu +++),Công ty TNHH Công nghệ Thương mại và Dịch vụ Trí Nghĩa,3 năm,18 - 30 triệu,"Tầng 4 - Tòa nhà Lebuiding số 342 đường Mỹ Đình, Phường Mỹ Đình 1, quận Nam Từ Liêm, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:45)","Tầng 4 - Tòa nhà Lebuilding số 342 đường Mỹ Đình, Nam Từ Liêm",,5 người
+1751525013-6,SAP SuccessFactors Consultant,Công Ty TNHH LG CNS VIỆT NAM,2 năm,Thoả thuận,"toà nhà Youngjin E&C Hải Phòng, Hồng Phong, An Dương, Hải Phòng, Việt Nam",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)","Tầng 15, Keangnam Landmark 72, Nam Từ Liêm",,1 người
+1751525019-7,Phó Phòng Business Analyst,CÔNG TY CỔ PHẦN LIFETEX,2 năm,20 - 25 triệu,"Số 55 Ngách 99/110 Định Công Hạ, Tổ 16, Phường Định Công, Quận Hoàng Mai, Thành phố Hà Nội, Việt Nam",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+                                                            Thứ 7 (từ 08:00 đến 12:00)
+                                                            Thứ 2- Thứ 6: 8h-17h; Thứ7: 8-12h
+
+Làm việc từ thứ 2 đến hết sáng t7","sảnh A tòa nhà HH2, số 15 Tố Hữu, Trung Văn, Nam Từ Liêm","Viết Báo Cáo
+                                    Phân Tích Nghiệp Vụ
+                                    Mô Hình Hóa Dữ Liệu
+                                    Thu Thập Và Phân Tích Dữ Liệu
+                                    Trình Bày Ý Tưởng",2 người
+1751525026-8,Trưởng Phòng Business Analyst,CÔNG TY CỔ PHẦN LIFETEX,3 năm,25 - 35 triệu,"Số 55 Ngách 99/110 Định Công Hạ, Tổ 16, Phường Định Công, Quận Hoàng Mai, Thành phố Hà Nội, Việt Nam",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+                                                            Thứ 7 (từ 08:00 đến 12:00)"," Hà Nội: HF2 Bắc Hà, Nhân Chính, Thanh Xuân","Phân Tích Nghiệp Vụ
+                                    Mô Hình Hóa Dữ Liệu
+                                    Thu Thập Và Phân Tích Dữ Liệu
+                                    Viết Tài Liệu Kỹ Thuật
+                                    Xây Dựng Và Quản Lý Yêu Cầu",1 người
+1751525033-9,Nhân Viên Business Analyst (BA),CÔNG TY CỔ PHẦN TRUYỀN THÔNG VĂN HOÁ VIỆT,3 năm,15 - 20 triệu,"P322-324 Tháp đông, sàn TM, chung cư Học Viện Quốc Phòng, Xuân La, Tây Hồ, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)
+                                                            Nghỉ thứ 7 cách tuần","Tầng 3, Tòa Tháp Đông, Chung cư Học viện Quốc Phòng, Xuân La, Tây Hồ","Làm việc nhóm
+                                    phân tích yêu cầu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Mô Hình Hóa Dữ Liệu",2 người
+1751525039-10,Trưởng Nhóm Phân Tích Nghiệp Vụ Kỹ Thuật Số/Technical Business Analyst Lead - Khối Chuyển Đổi,Ngân hàng SHB,Trên 5 năm,Thoả thuận,"81 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội",Ngân hàng,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)",Hoàn Kiếm,"Phân tích dữ liệu
+                                    Phân Tích Nghiệp Vụ
+                                    Mô Hình Hóa Dữ Liệu
+                                    Kỹ Năng Giao Tiếp Và Trình Bày
+                                    Truy Xuất Dữ Liệu (sql, Excel)",1 người
+1751525046-11,Business Analyst,CÔNG TY CỔ PHẦN CÔNG NGHỆ ALPHAWAY,3 năm,Thoả thuận,"Tầng 4, tòa 21T1 Hapulico, số 83 Vũ Trọng Phụng, Thanh Xuân, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)","89 Láng Hạ, Đống Đa, Đống Đa","SQL
+                                    Phân tích dữ liệu
+                                    Truyền Đạt Thông Tin
+                                    Mô Hình Hóa Dữ Liệu
+                                    Excel Nâng Cao",2 người
+1751525053-12,Business Analyst Data,CÔNG TY CỔ PHẦN CÔNG NGHỆ ALPHAWAY,3 năm,Thoả thuận,"Tầng 4, tòa 21T1 Hapulico, số 83 Vũ Trọng Phụng, Thanh Xuân, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)","119 Trần Duy Hưng, Trung Hòa, Cầu Giấy, Cầu Giấy","SQL
+                                    Kỹ năng giao tiếp
+                                    Phân tích dữ liệu
+                                    Mô Hình Hóa Dữ Liệu
+                                    Trực Quan Hóa Dữ Liệu (data Visualization)",3 người
+1751525060-13,"Business Analyst (LOS, Core)",Công ty CP Kinh doanh F88,3 năm,25 - 40 triệu,"G-Group Tower, Số 5 Nguyễn Thị Duệ, P. Yên Hoà, Q. Cầu Giấy, TP. Hà Nội",Tài chính,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)","Số 5 Nguyễn Thị Duệ (Ngõ 219 Trung Kính đi vào), Cầu Giấy","Business Analyst
+                                    Xử Lý Nợ
+                                    core T24
+                                    Scrum master
+                                    lending",2 người
+1751525066-14,Business Analyst (Japaness),CÔNG TY TNHH MUMESOFT INNOVATION,3 năm,Thoả thuận,"Tầng 6, số 12 Mễ Trì Hạ, Mễ Trì, Nam Từ Liêm, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)","Tầng 6, số 12 Mễ Trì Hạ, phường Mễ Trì, Nam Từ Liêm",,1 người
+1751525073-15,Trưởng/ Phó Phòng Business Analyst,"Magenest.,JSC",3 năm,Thoả thuận,"Tầng 4, 170 La Thành, Ô Chợ Dừa, Đống Đa, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)","GP Invest, 170 La Thành, Đống Đa","Làm việc nhóm
+                                    Quản Lý Dự Án
+                                    Phân Tích Nghiệp Vụ
+                                    Giao tiếp hiệu quả
+                                    Lập Kế Hoạch Và Tổ Chức",1 người
+1751525080-16,Chuyên Viên Phân Tích Nghiệp Vụ,Công ty Cổ phần EcoIT,3 năm,14 - 20 triệu,"Tòa AB, Imperia 203 Nguyễn Huy Tưởng, Thanh Xuân, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)","143 Nguyễn Tuân, Thanh Xuân, Thanh Xuân","Làm việc nhóm
+                                    Phân Tích Nghiệp Vụ
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Thu Thập Và Phân Tích Yêu Cầu",3 người
+1751525087-17,"Business Analyst (GOV, Senior)",Công ty cổ phần Synodus,5 năm,Thoả thuận,"Tầng 15, tòa CIC, số 1 Đường Nguyễn Thị Duệ, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)","15th Floor CIC Tower, 2/219 Trung Kinh, Yen Hoa Ward, Cau Giay Distric, Cầu Giấy","Viết Báo Cáo
+                                    Phân Tích Nghiệp Vụ
+                                    Thu Thập Và Phân Tích Dữ Liệu
+                                    Mô Hình Hóa Quy Trình
+                                    Trình Bày Ý Tưởng",1 người
+1751525093-18,Senior Data System Analyst,Ngân Hàng TMCP Việt Nam Thịnh Vượng (VPBank),5 năm,Thoả thuận,"89 Láng Hạ, Đống Đa, Hà Nội",Ngân hàng,"Thời gian làm việc
+                        
+                                                            từ thứ 2 – thứ 7 (nghỉ 02 sáng thứ 7/ tháng)","VPBank Tower, 89 Láng Hạ, Đống Đa","SQL
+                                    Phân tích dữ liệu
+                                    Phân Tích Nghiệp Vụ
+                                    phân tích hệ thống
+                                    Mô Hình Hóa Dữ Liệu
+                                    Thiết Kế Cơ Sở Dữ Liệu
+                                                    Trí Tuệ Nhân Tạo (ai) Và Học Máy (ml)
+                                    Thiết Kế Và Xây Dựng Hệ Thống Dữ Liệu
+                                    Kỹ Năng Gỡ Lỗi Và Phân Tích Hệ Thống
+                                    Kỹ Năng Đánh Giá Và Phân Tích Hệ Thống
+                                    Khảo Sát Và Phân Tích Hệ Thống
+                                    Kiến Trúc Hệ Thống Dữ Liệu
+                                    Khả Năng Gỡ Lỗi Và Phân Tích Hệ Thống",1 người
+1751525100-19,Business Analyst,Công ty cổ phần phần mềm ITSOL Holdings,2 năm,15 - 20 triệu,"Số 15, ngõ 82 Dịch Vọng Hậu, Cầu Giấy, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)","Trần Hữu Dực, Mỹ Đình, Nam Từ Liêm, Từ Liêm","phân tích yêu cầu
+                                    Mô Hình Hóa Dữ Liệu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Quản Lý Dự Án",4 người
+1751525111-20,Business Analyst (BA/Test) - Team Leader,CÔNG TY TRÁCH NHIỆM HỮU HẠN GIẢI PHÁP CÔNG NGHỆ CỘNG,3 năm,Thoả thuận,"Tầng 2, số 6 Ngõ 1002 đường Láng, phường Láng Thượng, Quận Đống Đa, Thành phố Hà Nội, Việt Nam.",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 18:00)","74 Khúc Thừa Dụ, Dịch Vọng, Cầu Giấy","UML
+                                    Làm việc nhóm
+                                    Phân tích dữ liệu
+                                    Phân Tích Nghiệp Vụ
+                                    Giao tiếp hiệu quả
+                                    Agile/Scrum
+                                                    Sql Cơ Bản
+                                    Kiểm Thử Phần Mềm (test Case, Test Plan, Test Execution)
+                                    Quản Lý Yêu Cầu (requirement Management)
+                                    Viết Tài Liệu (soạn Thảo Tài Liệu Yêu Cầu, Báo Cáo,...)",2 người
+1751525118-21,Business Analyst,Công ty cổ phần Synodus,2 năm,Tới 20 triệu,"Tầng 15, tòa CIC, số 1 Đường Nguyễn Thị Duệ, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)",Hà Nội,Phân Tích Nghiệp Vụ,2 người
+1751525124-22,Business Analyst SAP,CÔNG TY CỔ PHẦN CÔNG NGHỆ ALPHAWAY,3 năm,25 - 28 triệu,"Tầng 4, tòa 21T1 Hapulico, số 83 Vũ Trọng Phụng, Thanh Xuân, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:15 đến 17:45)
+                                                            Sáng thứ 7 làm cách tuần",Hà Nội,,2 người
+1751525131-23,Chuyên Viên Phân Tích Nghiệp Vụ (BA),CÔNG TY CỔ PHẦN MẠNG Y TẾ CỘNG ĐỒNG,3 năm,22 - 25 triệu,"Số 182 Thái Thịnh, Phường Láng Hạ, Quận Đống Đa, Thành phố Hà Nội, Việt Nam",Dược phẩm / Y tế / Công nghệ sinh học,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+                                                            Thứ 7 (từ 08:00 đến 12:00)","Số 676 Hoàng Hoa Thám, phường Bưởi, Tây Hồ","Quản Lý Dự Án
+                                    Phân Tích Nghiệp Vụ
+                                    Viết tài liệu
+                                    Thu Thập Yêu Cầu
+                                    Mô Hình Hóa Dữ Liệu",1 người
+1751525137-24,Business Analyst,Công ty Cổ phần METUB Việt Nam,1 năm,Thoả thuận,"HCM: METUB Tower, 40 Nguyễn Văn Hưởng , P. Thảo Điền, Q.2, TPHCM (TP Thủ Đức) /  HN: Tầng 8, Tòa nhà Central Point, 219 Trung Kính, P Yên Hòa, Cầu Giấy, HN",Agency (Marketing/Advertising),"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)","219 Trung Kính, Yên Hòa, Cầu Giấy, Cầu Giấy","Quản Lý Dự Án
+                                    phân tích yêu cầu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Mô Hình Hóa Dữ Liệu",1 người
+1751525144-25,Senior Business Analyst,Công ty TNHH Dịch vụ công nghệ TP,3 năm,20 - 40 triệu,"Tầng 2 Tòa Rivera Park, 69 Vũ Trọng Phụng, Thanh Xuân, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)","Tầng 2 tháp A, Toà nhà Rivera Park, 69 Vũ Trọng Phụng, P. Thanh Xuân Trung, Thanh Xuân","Phân Tích Nghiệp Vụ
+                                    Mô Hình Hóa Dữ Liệu
+                                    Quản Lý Yêu Cầu
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Viết Tài Liệu (sor, Use Case, User Story)",1 người
+1751525151-26,Business Analyst ERP - Thu Nhập Lên Đến 25 Triệu,CÔNG TY CỔ PHẦN KIDZONE ADVENTURES,2 năm,15 - 25 triệu,"610 Đường Láng, Phường Láng Hạ, Quận Đống đa, Hà Nội",Bán lẻ - Hàng tiêu dùng - FMCG,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+                                                            Thứ 7 (từ 08:00 đến 12:00)","Văn phòng HO: Tầng 3, 424 Nguyễn Trãi, Thanh Xuân, Thanh Xuân","Quản Lý Dự Án
+                                    Phân Tích Nghiệp Vụ
+                                    Mô Hình Hóa Dữ Liệu
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Viết Tài Liệu (sor, Use Case, Brd)",1 người
+1751525157-27,Middle Business Analyst,CÔNG TY CỔ PHẦN DỊCH VỤ DI ĐỘNG THỂ HỆ MỚI (NMS),2 năm,Tới 25 triệu,"Tầng 3A Mỹ Đình Plaza, số 138 Trần Bình, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)","Tầng 3A, Toà nhà Mỹ Đình Plaza, 138 Trần Bình, Nam Từ Liêm","Phân Tích Nghiệp Vụ
+                                    Giao tiếp hiệu quả
+                                    Mô Hình Hóa Dữ Liệu
+                                    Thu Thập Và Phân Tích Dữ Liệu
+                                    Viết Tài Liệu (requirement, Use Case,...)",2 người
+1751525164-28,Chuyên Viên Phân Tích Nghiệp Vụ,Công ty TNHH công nghệ truyền thông- truyền hình,3 năm,Tới 25 triệu,"116 Lạc Trung, Hai Bà Trưng, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)","116 Lạc Trung, Vĩnh Tuy, Hai Bà Trưng, Hai Bà Trưng","Phân tích dữ liệu
+                                    Xây Dựng Báo Cáo
+                                    Trình Bày Dữ Liệu
+                                    Kỹ năng giải quyết vấn đề
+                                    Kỹ năng giao tiếp",1 người
+1751525171-29,Business Analyst,CÔNG TY TNHH An Ninh An toàn Thông tin CMC,2 năm,15 - 30 triệu,"Tầng 15, Tòa Nhà CMC, Số 11 Duy Tân, Cầu Giấy, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)","Tầng 15, tòa CMC Tower, số 11 Duy Tân, Cầu Giấy",,1 người
+1751525177-30,Business Analyst,Công ty Cổ phần Công nghệ Alphaway,2 năm,20 - 36 triệu,"83 Vũ Trọng Phụng, Thanh Xuân, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)","Lương Yên, Bạch Đằng, Hai Bà Trưng",Business Analyst,1 người
+1751525184-31,Business Analyst (Domain ERP ) - Offer Upto 35.000.000,Công ty cổ phần Công nghệ thông tin Phú Minh (Phú Minh Teck),4 năm,Thoả thuận,"Tầng 5, Tòa nhà 152 Phó Đức Chính, Phường Trúc Bạch, Quận Ba Đình, Thành phố Hà Nội, Việt Nam",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)","Láng Hạ, Ba Đình","Phân Tích Nghiệp Vụ
+                                    Mô Hình Hóa Dữ Liệu
+                                    Quản Lý Yêu Cầu
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Viết Tài Liệu (sor, Use Case, User Story)",1 người
+1751525190-32,Business Analyst,CÔNG TY CỔ PHẦN CÔNG NGHỆ LOOGIX,2 năm,12 - 30 triệu,"Tầng 2, Số 5, Ngõ 76, Phố Trần Thái Tông, Tổ 19, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)
+                                                            Thứ 2 - Thứ 6 (từ 09:00 đến 18:30)","Số 5 Ngõ 76 đường Trần Thái Tông, Dịch Vọng, Cầu Giấy, Cầu Giấy","phân tích yêu cầu
+                                    Mô Hình Hóa Dữ Liệu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Quản Lý Dự Án",1 người
+1751525197-33,Business Analyst,Công ty CP Công nghệ phần mềm và nội dung số OSP,3 năm,Tới 35 triệu,"Tầng 4 Tòa nhà Garden Hill 99 Trần Bình , Mỹ Đình 2 , Nam Từ Liêm , Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)","Tầng 4, Tòa The Garden Hill, 99 Trần Bìn, Nam Từ Liêm",,1 người
+1751525204-34,Business Analyst - Securities Domain,CÔNG TY CỔ PHẦN CHỨNG KHOÁN VINA,2 năm,Thoả thuận,"Phòng 702, Tầng 7, Tòa nhà Capital Building, số 58 phố Kim Mã, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội, Việt Nam",Chứng khoán,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 09:00 đến 17:15)","Toà nhà Capital Building, số 58 phố Kim Mã, Phường Kim Mã, Ba Đình","Phân Tích Nghiệp Vụ
+                                    Viết tài liệu
+                                    Mô Hình Hóa Dữ Liệu
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Trình Bày Và Thuyết Trình",1 người
+1751525211-35,Business Analyst (Domain Fintech),Công ty TNHH Equix Technologies,3 năm,Tới 35 triệu,"Level 21, Hoa Binh Tower, 106 Hoang Quoc Viet St., Cau Giay Dist., Hanoi",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)","106 Hoàng Quốc Việt, Cầu Giấy","Phân Tích Nghiệp Vụ
+                                    Viết tài liệu
+                                    Mô Hình Hóa Dữ Liệu
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Trình Bày Và Thuyết Trình",2 người
+1751525217-36,Chuyên Viên Phân Tích Nghiệp Vụ (BA) - Bank,Công Ty Cổ Phần GoGroup,3 năm,18 - 30 triệu,"Số 385 Nguyễn Văn Cừ, Phường Ngọc Lâm, Quận Long Biên, TP Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)","18 lê văn lương, Cầu Giấy","Phân tích dữ liệu
+                                    Quản Lý Sản Phẩm
+                                    Xây Dựng Chiến Lược Sản Phẩm
+                                    Phân Tích Nghiệp Vụ Ngân Hàng
+                                    Quản Lý Dự Án Agile Scrum",1 người
+1751525224-37,Chuyên Viên Phân Tích Nghiệp Vụ-Kế Toán Giao Dịch,Công ty cổ phần chứng khoán VPS,2 năm,Thoả thuận,Hội sở: 65 Cảm Hội - Quận Hai Bà Trưng - Hà Nội,Chứng khoán,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)",Hai Bà Trưng,"SQL
+                                    Phân tích dữ liệu
+                                    Kế Toán
+                                    Kiểm Toán
+                                    Excel Nâng Cao",3 người
+1751525231-38,Chuyên Viên Business Analyst (BA),Công ty TNHH TM Thiên Thủy Mộc,2 năm,12 - 16 triệu,"Tòa nhà VMT, ngõ 82 Duy Tân, Cầu Giấy, Hà Nội",Khác,"Cách thức ứng tuyển
+                    
+                                                                                                            Ứng viên nộp hồ sơ trực tuyến bằng cách bấm Ứng tuyển ngay dưới đây.","82 Duy Tân, Cầu Giấy","Phân Tích Yêu Cầu Nghiệp Vụ
+                                    Mô Hình Hóa Dữ Liệu
+                                    Viết Tài Liệu (soạn Thảo Tài Liệu, Báo Cáo)
+                                    Giao Tiếp Hiệu Quả (trình Bày, Thuyết Trình)
+                                    Quản Lý Thời Gian Và Ưu Tiên Công Việc",3 người
+1751525238-39,"Chuyên Viên Phân Tích Nghiệp Vụ (Business Analyst, Thu Nhập 13-23tr/Tháng)",Công ty Cổ phần đầu tư Công Nghệ và Thương Mại Softdreams,2 năm,13 - 23 triệu,"Nhà khách ATS số 8 Phạm Hùng, Mễ Trì, Nam Từ Liêm, Hà Nội",IT - Phần mềm,"Cách thức ứng tuyển
+                    
+                                                                                                            Ứng viên nộp hồ sơ trực tuyến bằng cách bấm Ứng tuyển ngay dưới đây.","Nhà khách ATS, số 8 Phạm Hùng, Mễ trì, Nam Từ Liêm",,1 người
+1751525244-40,Chuyên Viên Phân Tích Nghiệp Vụ,Công ty cổ phần công nghệ Isofh,2 năm,Tới 25 triệu,"Tòa VOV, 35 Nguyễn Đình Chiểu, Lê Đại Hành, Hai Bà Trưng, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)","35 Nguyễn Đình Chiểu, Hai Bà Trưng","Kỹ năng giao tiếp
+                                    Phân tích dữ liệu
+                                    Kỹ năng giải quyết vấn đề
+                                    Xây Dựng Báo Cáo
+                                    Trình Bày Dữ Liệu",15 người
+1751525251-41,Business Analyst Associate - Tại Hà Nội - Thu Nhập 12 - 22 Triệu,SAPP Academy,2 năm,13 - 22 triệu,"Số 54 Lê Thanh Nghị, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội",Giáo dục / Đào tạo,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:45)
+                                                            Thứ 2 - Thứ 6 (từ 09:30 đến 18:45)","54 lê thanh nghị, Hai Bà Trưng","Agile
+                                    CRM
+                                    Business Analyst",4 người
+1751525258-42,Business Analyst (Kiêm Software Admin),CÔNG TY CỔ PHẦN THỰC PHẨM VÀ ĐỒ UỐNG BARETT,2 năm,20 - 25 triệu,"22 Thể Giao, LêĐại Hành, Hai Bà Trưng, Hà Nội",Bán lẻ - Hàng tiêu dùng - FMCG,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+                                                            Thứ 7 (từ 08:00 đến 12:00)","22 Thể Giao, Lê Đại Hành, Hai Bà Trưng","Phân Tích Nghiệp Vụ
+                                    Giao tiếp hiệu quả
+                                    Mô Hình Hóa Dữ Liệu
+                                    Thu Thập Và Phân Tích Dữ Liệu
+                                    Viết Tài Liệu (requirement, Use Case,...)",2 người
+1751525264-43,Business Analyst (BA Dự Án) - 2 Năm Kinh Nghiệm - Thu Nhập 20 - 30 Triệu - Tại Hà Nội,CÔNG TY CỔ PHẦN CÔNG NGHỆ SỐ VCI.,2 năm,20 - 30 triệu,"Tầng 2 nhà D khu văn phòng và nhà ở cao cấp Vinaconex1 số 289A đường Khuất Duy Tiến, Phường Trung Hoà, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam",Khác,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)
+                                                            Nghỉ 2 thứ 7/ tháng","Tầng 2 nhà D Vinaconex1 số 289A đường Khuất Duy Tiến, phường Trung Hòa, Cầu Giấy",,1 người
+1751525271-44,Business Analyst Leader - 4 Năm Kinh Nghiệm - Thu Nhập 30 - 40 Triệu - Tại Hà Nội,CÔNG TY CỔ PHẦN CÔNG NGHỆ SỐ VCI.,4 năm,30 - 40 triệu,"Tầng 2 nhà D khu văn phòng và nhà ở cao cấp Vinaconex1 số 289A đường Khuất Duy Tiến, Phường Trung Hoà, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam",Khác,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)
+                                                            Nghỉ 2 thứ 7/ tháng","Tầng 2 nhà D Vinaconex1 số 289A đường Khuất Duy Tiến, phường Trung Hòa, Cầu Giấy",,1 người
+1751525278-45,Business Analyst (Banking- Payment- Finance),Công ty Cổ phần MISA,2 năm,Thoả thuận,"Tầng 9 tòa nhà Technosoft ngõ 15 Duy Tân, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)","tòa L3-R1, Khu Ngoại Giao Đoàn, Bắc Từ Liêm","Phân Tích Nghiệp Vụ
+                                    Giao tiếp hiệu quả
+                                    Thu Thập Và Phân Tích Dữ Liệu
+                                    Mô Hình Hóa Quy Trình
+                                    Viết Tài Liệu Kỹ Thuật",1 người
+1751525284-46,Chuyên Viên Triển Khai Phần Mềm ERP,Công ty TNHH 1C Việt Nam,3 năm,Thoả thuận,"Tầng 21, Century Tower, TTTM Times City, số 458 Minh Khai, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+                                                            Nghỉ thứ 7 và Chủ nhật","Century Tower, Hai Bà Trưng","Thuyết trình
+                                    Phân Tích Nghiệp Vụ
+                                    Đào tạo
+                                    Kiểm thử phần mềm
+                                    Cấu Hình Phần Mềm Erp
+                                    Triển Khai Phần Mềm Erp",1 người
+1751525291-47,"Senior Business Analyst, Global Supply Chain ECommerce Platform (Up To 30 Months Of Annually Package...",Crossian,5 năm,Thoả thuận,"Tầng 1 và Tầng 5, Toà nhà Pax Sky, 63 - 65 phố Ngô Thì Nhậm, Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Thành phố Hà Nội, Việt Nam",Thương mại điện tử,"Cách thức ứng tuyển
+                    
+                                                                                                            Ứng viên nộp hồ sơ trực tuyến bằng cách bấm Ứng tuyển ngay dưới đây.","65 Ngô Thì Nhậm, Hai Bà Trưng",,1 người
+1751525297-48,[Model App] - CVC Phân Tích Nghiệp Vụ - MSB DF - 3B449,Ngân hàng TMCP Hàng Hải Việt Nam (MSB),1 năm,20 - 24 triệu,"ROX Tower, 54A Nguyễn Chí Thanh, phường Láng Thượng, Đống Đa, TP. Hà Nội",Ngân hàng,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)",Hà Nội,"Phân tích dữ liệu
+                                    Xử Lý Dữ Liệu
+                                    SQL
+                                    Excel Nâng Cao
+                                    Phân Tích Nghiệp Vụ Ngân Hàng",1 người
+1751525304-49,Nhân Viên Phân Tích Nghiệp Vụ/ Business Analyst,Công ty Cổ phần MISA,2 năm,"Từ 1,000 USD","Tầng 9 tòa nhà Technosoft ngõ 15 Duy Tân, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)","N03T1, Khu Ngoại Giao Đoàn, Bắc Từ Liêm","Phân Tích Nghiệp Vụ
+                                    Thu Thập Và Phân Tích Dữ Liệu
+                                    Viết Tài Liệu (soạn Thảo Báo Cáo, Tài Liệu Yêu Cầu)
+                                    Giao Tiếp Hiệu Quả (trình Bày, Thuyết Trình)
+                                    Xây Dựng Mô Hình Nghiệp Vụ",5 người
+1751525311-50,Business Analyst (Banking- Payment- Finance),Công ty Cổ phần MISA,2 năm,Thoả thuận,"Tầng 9 tòa nhà Technosoft ngõ 15 Duy Tân, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)","tòa L3-R1, Khu Ngoại Giao Đoàn, Bắc Từ Liêm","Phân Tích Nghiệp Vụ
+                                    Giao tiếp hiệu quả
+                                    Thu Thập Và Phân Tích Dữ Liệu
+                                    Mô Hình Hóa Quy Trình
+                                    Viết Tài Liệu Kỹ Thuật",1 người
+1751525317-51,Business Analyst,CÔNG TY CỔ PHẦN CÔNG NGHỆ BISTECH VIỆT NAM,1 năm,15 - 20 triệu,"Số 35 ngõ 50 Nguyễn Hữu Thọ, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Logistics - Vận tải,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)
+                                                            Nghỉ trưa 1,5 tiếng","Số 14, Khúc Thừa Dụ, phường Dịch Vọng, Cầu Giấy",,1 người
+1751525324-52,Business Analyst,CÔNG TY CỔ PHẦN CÔNG NGHỆ BISTECH VIỆT NAM,1 năm,15 - 20 triệu,"Số 35 ngõ 50 Nguyễn Hữu Thọ, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Logistics - Vận tải,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)
+                                                            Nghỉ trưa 1,5 tiếng","Số 14, Khúc Thừa Dụ, phường Dịch Vọng, Cầu Giấy",,1 người
+1751525331-53,Trưởng Nhóm IT Business Analyst,Công ty TNHH ICAR Việt Nam,1 năm,15 - 30 triệu,"MẶT BẰNG SỐ 01, TẦNG 2, KHU VL2, CHỢ THƯƠNG MẠI, DỊCH VỤ TỔNG HỢP TRUNG VĂN",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)","Tầng 2, Khu thương mại dịch vụ Trung Văn 2, Nam Từ Liêm, Nam Từ Liêm","Phân Tích Nghiệp Vụ
+                                    Mô Hình Hóa Dữ Liệu
+                                    Quản Lý Yêu Cầu
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Viết Tài Liệu Kỹ Thuật (ví Dụ: Srs, Use Case, User Story)",1 người
+1751525338-54,Business Analyst ERP - Thu Nhập Upto 25M,CÔNG TY CỔ PHẦN KIDZONE ADVENTURES,2 năm,15 - 25 triệu,"610 Đường Láng, Phường Láng Hạ, Quận Đống đa, Hà Nội",Bán lẻ - Hàng tiêu dùng - FMCG,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+                                                            Thứ 7 (từ 08:00 đến 12:00)","424 Nguyễn Trãi, Thanh Xuân","Quản Lý Dự Án
+                                    Phân Tích Nghiệp Vụ
+                                    Mô Hình Hóa Dữ Liệu
+                                    Thu Thập Và Phân Tích Yêu Cầu",1 người
+1751525344-55,Kỹ Sư Phân Tích Nghiệp Vụ - Business Analyst,Tổng Công ty Cổ Phần Công trình Viettel,3 năm,16 - 20 triệu,Số 06 Phạm Văn Bạch - Phường Yên Hòa - Quận Cầu Giấy - TP. Hà Nội,Xây dựng,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+                                                            Từ 8h-17h30 các ngày T2 - T6 + 1 ngày T7 đầu tiên của tháng","Viettel Construction số 6 Phạm Văn Bạch, Yên Hòa, Cầu Giấy","Phân Tích Nghiệp Vụ
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Mô Hình Hóa Quy Trình Nghiệp Vụ
+                                    Viết Tài Liệu (sor, Use Case, User Story)
+                                    Giao tiếp hiệu quả",1 người
+1751525351-56,Chuyên Viên Phân Tích Nghiệp Vụ (Business Analyst),Công ty Cổ phần Tập đoàn Meey Land,2 năm,20 - 40 triệu,"97-99 Láng Hạ, Đống Đa, hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 18:00)
+                                                            Checkin linh hoạt từ 7.30-9.00 am","97-99 Láng Hạ, Đống Đa","SCRUM
+                                    CRM
+                                    Phân Tích Nghiệp Vụ
+                                    BRD
+                                    Agile/Scrum
+                                    Thu Thập Và Phân Tích Dữ Liệu
+                                                    Mô Hình Hóa Quy Trình Nghiệp Vụ
+                                    Kiến thức SaaS",1 người
+1751525357-57,IT Business Analyst (Project Management),Công ty TNHH Yusen Logistics (Việt Nam),2 năm,Thoả thuận,"P.805, tòa nhà HITC, 239 đường Xuân Thủy, P. Dịch Vọng Hậu, Q. Cầu Giấy, TP. Hà Nội",Logistics - Vận tải,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+                                                            Thứ 7 (từ 08:00 đến 12:00)","8th floor, HITC Building, 239 Xuan Thuy Road, Cau Giay District, Hanoi, Cầu Giấy","Project Management
+                                    Business Analyst",1 người
+1751525364-58,Chuyên Viên Phân Tích Nghiệp Vụ,Công ty Cổ phần Tập đoàn Công nghệ Thiên Hoàng,2 năm,15 - 20 triệu,"Tầng 22, tòa nhà Viwaseen, 48 Tố Hữu, phường Trung Văn, quận Nam Từ Liêm, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)","Tầng 22 tòa nhà Viwaseen, số 48 Tố Hữu, Trung Văn, Nam Từ Liêm","Kỹ năng giao tiếp
+                                    Kỹ năng giải quyết vấn đề
+                                    Xây Dựng Báo Cáo
+                                    Trình Bày Dữ Liệu",2 người
+1751525371-59,Phân Tích Nghiệp Vụ Và Kiểm Thử Phần Mềm,Công ty cổ phần Ecoit,2 năm,12 - 17 triệu,"203 Nguyễn Huy Tưởng, Thanh Xuân, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+                                                            Và 02 thứ 7 cách tuần trong tháng","Tòa AB, Imperia Garden 143 Nguyễn Tuân, Thanh Xuân, Thanh Xuân","Thu Thập Và Phân Tích Dữ Liệu
+                                    Phân Tích Yêu Cầu Nghiệp Vụ
+                                    Mô Hình Hóa Quy Trình Nghiệp Vụ
+                                    Giao Tiếp Và Trình Bày Hiệu Quả
+                                    Xây Dựng Tài Liệu Nghiệp Vụ",3 người
+1751525377-60,Business Analyst (ERP/Frappe Framework),CÔNG TY CP CÔNG NGHỆ HẢI NAM TECH,1 năm,10 - 20 triệu,"Khu đô thị Việt Mỹ, Tổ 11, Phường Tân Quang, Thành phố Tuyên Quang, Tỉnh Tuyên Quang, Việt Nam",IT - Phần cứng,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 7 (từ 08:00 đến 17:30)","Tầng 6, số 30, 2/76 Duy Tân, Cầu Giấy, Cầu Giấy","Phân Tích Nghiệp Vụ
+                                    Mô Hình Hóa Dữ Liệu
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Thiết Kế Quy Trình Nghiệp Vụ
+                                    Viết Tài Liệu Kỹ Thuật",2 người
+1751525384-61,Chuyên Viên Phân Tích Nghiệp Vụ (Odoo),Công ty Cổ phần Tập đoàn Karofi,3 năm,25 - 35 triệu,"Tòa Hudland Towers, số 06 Nguyễn Hữu Thọ, Hoàng Mai, Hà Nội",Bán lẻ - Hàng tiêu dùng - FMCG,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:48)","117 Trần Duy Hưng - Tòa Charmvit Tower - Cầu Giấy, Cầu Giấy","Phân Tích Nghiệp Vụ
+                                    Thiết Kế Quy Trình Nghiệp Vụ
+                                    Hiểu Biết Về Odoo
+                                    Triển Khai Odoo
+                                    Cấu Hình Odoo",1 người
+1751525391-62,Business Analyst,Công ty Cổ Phần Chuỗi Nhà Hàng SVN,2 năm,20 - 25 triệu,"Tầng 2, Tòa G5 - Five Star Garden, Số 460 Khương Đình, Thanh Xuân, Hà Nội",Nhà hàng / Khách sạn,"Thời gian làm việc
+                        
+                                                            từ 9h00-18h00 hoặc 8h30-17h30, nghỉ CN và 02 thứ 7/tháng","Tầng 2, Tòa nhà Fivestar, số 2 Kim Giang, Thanh Xuân, Hà Nội, Thanh Xuân","phân tích yêu cầu
+                                    Mô Hình Hóa Dữ Liệu
+                                    Soạn Thảo Tài Liệu
+                                    Quản Lý Dự Án
+                                    Giao tiếp hiệu quả",1 người
+1751525397-63,Business Analyst (EN Fluent),Công ty Cổ phẩn Lotus Quality Assurance,3 năm,20 - 40 triệu,"Tầng 14 -17 , toà nhà văn phòng MD Complex, 68 Nguyễn Cơ Thạch, KĐT Mỹ Đình I, P. Cầu Diễn, Q. Nam Từ Liêm, Thành phố Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)","Tầng 14 -17 , toà nhà văn phòng MD Complex, 68 Nguyễn Cơ Thạch, KĐT Mỹ Đình I, P. Cầu Diễn, Nam Từ Liêm","Data Analysis
+                                    Analytical Skills
+                                    Problem Solving Skills
+                                    Documentation
+                                    Requirement Elicitation",3 người
+1751525404-64,(Business Analyst - BA),CÔNG TY CỔ PHẦN CHỨNG KHOÁN LPBANK,2 năm,25 - 30 triệu,Tầng 3 - Cao ốc văn phòng - Số 43-45-47 Nguyễn Thị Minh Khai - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh,Chứng khoán,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)","17 Tông Đản, Hoàn Kiếm",,5 người
+1751525411-65,Phân Tích Nghiệp Vụ (Kế Toán - Kiểm Toán),CÔNG TY CỔ PHẦN CÔNG NGHỆ SICIX,2 năm,17 - 22 triệu,"Chung cư học viện bộ Quốc phòng, Xuân La, Tây Hồ, Hà Nội.",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)","Tháp Tây, Chung cư học viện bộ Quốc phòng, Xuân La, Tây Hồ","Quản Lý Dự Án
+                                    phân tích yêu cầu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả",1 người
+1751525417-66,Chuyên Viên Phân Tích Nghiệp Vụ - Business Analyst,Công ty Cổ phần Giải pháp Phần mềm Biplus Việt Nam,4 năm,Thoả thuận,"Số 85 Trần Thái Tông, Cầu Giấy, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)","Số 85 - Trần Thái Tông, Cầu Giấy",Phân Tích Nghiệp Vụ,2 người
+1751525424-67,Business Analyst ERP (Functional Consultant),NHÀ SÁCH TIẾN THỌ,2 năm,15 - 25 triệu,"424 Nguyễn Trãi, Thanh Xuân, Hà Nội",In ấn / Xuất bản,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+                                                            Thứ 7 (từ 08:00 đến 12:00)","Số 424 Nguyễn Trãi, Thanh Xuân","Phân Tích Nghiệp Vụ
+                                    Viết tài liệu
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Quản Lý Dự Án Nhỏ
+                                    Thiết Kế Quy Trình",1 người
+1751525431-68,Business Analyst,CÔNG TY CỔ PHẦN PHẦN MỀM NOBI VIỆT NAM,2 năm,15 - 25 triệu,"Số nhà 81A, Ngõ 44, Phố Trần Thái Tông, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam",Internet / Online,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)",Hà Nội,"phân tích yêu cầu
+                                    Mô Hình Hóa Dữ Liệu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Quản Lý Dự Án",2 người
+1751525437-69,Business Analyst (Fluent In English),"TECHVIFY SOFTWARE., JSC",2 năm,12 - 25 triệu,"HEADQUARTER: HUDTOWER Building, 37 Le Van Luong Str, Thanh Xuan Dist, Hanoi",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)","Tòa nhà Thành Đông, Ngõ 19 Tố Hữu, Trung Văn, Nam Từ Liêm","Phân Tích Nghiệp Vụ
+                                    Thu Thập Và Phân Tích Dữ Liệu
+                                    Xây Dựng Mô Hình Nghiệp Vụ
+                                    Viết Báo Cáo
+                                    Trình Bày Ý Tưởng",1 người
+1751525444-70,Nhân Viên BA (Business Analyst). Thu Nhập 13 Triệu Đến 25 Triệu,Công ty Cổ phần Đầu tư Phát triển Công nghệ và Truyền thông,3 năm,13 - 25 triệu,"Tầng 2, CT2 Tràng An Complex, số 1 Phùng Chí Kiên, Nghĩa Đô, Cầu Giấy, Hà nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2-6 nghỉ thứ 7, CN","CT2 Tràng An Complex, số 1 Phùng Chí Kiên, Nghĩa Đô, Cầu Giấy, Cầu Giấy","Kỹ năng giao tiếp
+                                    Phân tích dữ liệu
+                                    Viết tài liệu
+                                    Kỹ Năng Trình Bày
+                                    Phân Tích Yêu Cầu Nghiệp Vụ",3 người
+1751525451-71,Business Analyst Lương Upto 30M Tại Hà Nội,CÔNG TY CỔ PHẦN KALAPA,3 năm,12 - 30 triệu,"Tầng 2, A1-A3 Toà nhà Ecolife, số 58 Tố Hữu, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội, Việt Nam",Tài chính,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 09:30 đến 18:00)","Tầng 2, toà nhà Ecolife, số 58 Tố Hữu, P.Mễ Trì, Nam Từ Liêm",,1 người
+1751525457-72,Business Analyst (BA),CÔNG TY CỔ PHẦN TẬP ĐOÀN G-SUN GROUP,5 năm,40 - 50 triệu,"Số 62, Ngách 46, Ngõ Linh Quang, Phố Khâm Thiên, Phường Văn Chương, Quận Đống Đa, Thành phố Hà Nội, Việt Nam",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)
+                                                            Thứ 2 đến thứ 6 8h30-17h30
+
+Nghỉ trưa: 12h-13h","232 Bà Triệu, Lê Đại Hàn, Hai Bà Trưng","Quản Lý Dự Án
+                                    phân tích yêu cầu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Mô Hình Hóa Dữ Liệu",1 người
+1751525464-73,Senior Business Analyst,Công ty Cổ Phần Rikkeisoft,Trên 5 năm,Thoả thuận,"Tầng 21, tòa nhà Handico, đường Phạm Hùng, khu đô thị mới Mễ Trì Hạ, P.Mễ Trì, Quận Nam Từ Liêm, TP.Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+                                                            Đăng ký linh hoạt 8:00 - 9:00 đến 17:00 - 18:00 từ Thứ 2 - Thứ 6","tòa Vinacomin Dương Đình Nghệ, Cầu Giấy",,1 người
+1751525471-74,Business Analyst Domain Tài Chính,TỔNG CÔNG TY CỔ PHẦN BƯU CHÍNH VIETTEL,2 năm,15 - 45 triệu,"Tòa ViettelPost, Số 2, Ngõ 15, Duy Tân, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",IT - Phần mềm,"Cách thức ứng tuyển
+                    
+                                                                                                            Ứng viên nộp hồ sơ trực tuyến bằng cách bấm Ứng tuyển ngay dưới đây.","Tòa nhà Viettel Post, số 2 ngõ 15 duy tân, Cầu Giấy","SQL
+                                    Phân tích dữ liệu
+                                    Kế Toán
+                                    Quản Lý Ngân Sách
+                                    Kế Toán Dự Án",1 người
+1751525477-75,Business Analyst SAP,Công ty TNHH Giải pháp Phân tích dữ liệu Insight Data,2 năm,25 - 35 triệu,"Tầng 5, Tòa A, 47 Nguyễn Tuân, Thanh xuân, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)","19 Vũ Trọng Phụng, Thanh Xuân, Thanh Xuân","Phân Tích Nghiệp Vụ
+                                    Mô Hình Hóa Dữ Liệu
+                                    Thiết Kế Quy Trình
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Viết tài liệu",2 người
+1751525484-76,Business Analyst (Middle/Senior),Công ty cổ phần đầu tư NBG HIGHTECH,3 năm,20 - 35 triệu,"Tầng 19, tòa MD Complex, Mỹ Đình, Nam Từ Liêm, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)","Tòa MD Complex, 68 Nguyễn Cơ Thạch, Mỹ Đình 1, Nam Từ Liêm","Phân Tích Nghiệp Vụ
+                                    Mô Hình Hóa Dữ Liệu
+                                    Quản Lý Yêu Cầu
+                                    Thu Thập Và Phân Tích Dữ Liệu
+                                    Viết Tài Liệu (sor, Use Case, User Story)",1 người
+1751525491-77,"Business Analyst (BA, Thu Nhập 18 - 30 Triệu/Tháng)",CÔNG TY TNHH DỊCH VỤ PHẦN MỀM HUMAN OFFSHORE PARTNERS,2 năm,18 - 30 triệu,"Số nhà V1-A02, Lô đất TTDV 01, Khu đô thị mới An Hưng , Phường Dương Nội, Quận Hà Đông, Thành phố Hà Nội, Việt Nam",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)","1- A02 Khu đô thị mới An Hưng, Dương Nội, Hà Đông","Quản Lý Dự Án
+                                    phân tích yêu cầu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Mô Hình Hóa Dữ Liệu",2 người
+1751525498-78,Chuyên Viên Business Analyst Thu Nhập Upto 20M Tại Hà Nội,CÔNG TY CỔ PHẦN GIÁO DỤC LOGIC LAB,1 năm,13 - 20 triệu,"Lô B1.1, số 2 đường Đặng Thai Mai, Phường Quảng An, Quận Tây Hồ, Thành phố Hà Nội, Việt Nam",Giáo dục / Đào tạo,"Thời gian làm việc
+                        
+                                                            Từ T2- sáng T7
+
+9h-18h/8h-17h","59 Xuân Diệu, Tây Hồ, Tây Hồ","Mô Hình Hóa Dữ Liệu
+                                    Thu Thập Và Phân Tích Dữ Liệu
+                                    Kỹ Năng Giao Tiếp Và Thuyết Trình
+                                    Phân Tích Yêu Cầu Nghiệp Vụ
+                                    Viết Tài Liệu (soạn Thảo Báo Cáo, Tài Liệu Yêu Cầu)",1 người
+1751525504-79,Middle Business Analyst,Công ty Cổ phần Đầu tư và Phát triển Koolsoft,3 năm,20 - 30 triệu,"Tầng 3, Lô NT KĐT Phùng Khoang, Phường Trung Văn, Nam Từ Liêm, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)","Khu Văn phòng Trường mầm non Thành Đông, Khu đô thị mới Phùng Khoang, Phường Trung Văn, Nam Từ Liêm","Phân Tích Nghiệp Vụ
+                                    Viết tài liệu
+                                    Mô Hình Hóa Dữ Liệu
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Trình Bày Và Thuyết Trình",1 người
+1751525511-80,System Analyst/Business Analyst Expert - TA171,Ngân Hàng TMCP Việt Nam Thịnh Vượng (VPBank),5 năm,Thoả thuận,"89 Láng Hạ, Đống Đa, Hà Nội",Ngân hàng,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+                                                            từ thứ 2 – thứ 6 & 2 sáng thứ 7/tháng","89 Láng Hạ, Đống Đa","Quản Lý Dự Án
+                                    Phân Tích Nghiệp Vụ
+                                    Core Card
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Viết Tài Liệu Kỹ Thuật",1 người
+1751525518-81,Product Business Analyst,Galaxy Education Joint Stock Company,2 năm,15 - 22 triệu,"Tòa nhà Giày Việt, số 180-182 Lý Chính Thắng, Phường 09, Quận 03",Giáo dục / Đào tạo,"Thời gian làm việc
+                        
+                                                            - Từ thứ 2 đến thứ 6 và 2 ngày thứ 7 cách tuần (8h30 - 18h00)","Tòa nhà 25T2 Nguyễn Thị Thập, Trung Hòa, Cầu Giấy","Làm việc nhóm
+                                    Quản Lý Dự Án
+                                    phân tích yêu cầu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả",1 người
+1751525525-82,Trưởng Nhóm Business Analyst (BA),Công ty TNHH TM Thiên Thủy Mộc,2 năm,15 - 23 triệu,"Tòa nhà VMT, ngõ 82 Duy Tân, Cầu Giấy, Hà Nội",Khác,"Cách thức ứng tuyển
+                    
+                                                                                                            Ứng viên nộp hồ sơ trực tuyến bằng cách bấm Ứng tuyển ngay dưới đây.","82 Duy Tân, Cầu Giấy","Phân Tích Nghiệp Vụ
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Mô Hình Hóa Dữ Liệu
+                                    Viết Tài Liệu (srs, Use Case, User Story)
+                                    Quản Lý Yêu Cầu",1 người
+1751525531-83,Business Analyst,CÔNG TY CỔ PHẦN GIẢI PHÁP THÔNG MINH LINKCARE,3 năm,18 - 25 triệu,"Số 20, ngách 241/61 Ngõ Chợ Khâm Thiên, Phường Phương Liên, Quận Đống Đa, Thành phố Hà Nội, Việt Nam",Tư vấn,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)
+                                                            - Thứ 2 - Thứ 6: 8h30 - 17h30
+
+- 2 sáng thứ 7/ tháng (sáng thứ 7 đầu tiên và thứ 7 cuối cùng)","số 138B, Giảng Võ, Ba Đình, Ba Đình","Quản Lý Dự Án
+                                    phân tích yêu cầu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Mô Hình Hóa Dữ Liệu",1 người
+1751525538-84,Nhân Viên Phân Tích Nghiệp Vụ (BA) - Fulltime - Lương Lên Đến 20 Triệu/Tháng,Công ty Cổ phần The First One,2 năm,10 - 20 triệu,"Tầng 9 tòa Suced, số 108 Nguyễn Hoàng, Nam Từ Liêm, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)
+                                                            Giờ làm việc linh hoạt
+
+Nghỉ Thứ Bảy, Chủ Nhật","Tòa nhà Suced, số 108 đường Nguyễn Hoàng, Mỹ Đình 2, Nam Từ Liêm","Làm việc nhóm
+                                    Phân Tích Nghiệp Vụ
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Thu Thập Và Phân Tích Yêu Cầu",1 người
+1751525545-85,Business Analyst (ERP),Công ty TNHH Infoplus,3 năm,Tới 35 triệu,"18 Tôn Thất Thuyết, Nam Từ Liêm Hà Nội - 163 Nguyễn Văn Trỗi, Phú Nhuận, HCM",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)","18 Tôn Thất Thuyết, Nam Từ Liêm","Quản Lý Dự Án
+                                    phân tích yêu cầu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Mô Hình Hóa Dữ Liệu",1 người
+1751525551-86,Chuyên Viên Phân Tích Nghiệp Vụ BA,Công Ty Cổ Phần Công Nghiệp Weldcom,2 năm,0.0 - 0.0 triệu,"285a Ngô Gia Tự, Long Biên, Hà Nội",Bán lẻ - Hàng tiêu dùng - FMCG,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+                                                            Thứ 7 (từ 08:00 đến 12:00)","285a Ngô Gia Tự, Long Biên, Long Biên","Làm việc nhóm
+                                    Phân Tích Nghiệp Vụ
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Thu Thập Và Phân Tích Yêu Cầu",2 người
+1751525558-87,Business Analyst,"TECHVIFY SOFTWARE., JSC",3 năm,Tới 40 triệu,"HEADQUARTER: HUDTOWER Building, 37 Le Van Luong Str, Thanh Xuan Dist, Hanoi",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)","tòa HUD Lê Văn Lương, Thanh Xuân","phân tích yêu cầu
+                                    Mô Hình Hóa Dữ Liệu
+                                    Viết tài liệu
+                                    Giao tiếp hiệu quả
+                                    Quản Lý Dự Án",1 người
+1751525565-88,Senior Business Analyst/PO,FPT IS,5 năm,Thoả thuận,"Tầng 22 toà nhà Keangnam Landmark 72, E6 Phạm Hùng, Nam Từ Liêm, Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)","Tầng 8 - Landmark72 - Phạm Hùng, Nam Từ Liêm","Phân Tích Nghiệp Vụ
+                                    Quản Lý Yêu Cầu
+                                    Thu Thập Và Phân Tích Yêu Cầu
+                                    Lập Kế Hoạch Và Quản Lý Dự Án
+                                    Viết Tài Liệu (user Story, Use Case, Srs)",1 người
+1751525572-89,"Chuyên Viên Phân Tích Nghiệp Vụ (Business Analyst, Thu Nhập 10 - 20 Triệu)",Công ty Cổ phần đầu tư và phát triển Kztek,1 năm,10 - 20 triệu,"Tầng 3, tòa nhà CT2, KĐT Dream Town - Q. Nam Từ Liêm - TP. Hà Nội",IT - Phần mềm,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+                                                            Thứ 7 (từ 08:00 đến 12:00)","T1, CT2-3, Chung cư Dream Town, Tây Mỗ, Nam Từ Liêm","Phân tích dữ liệu
+                                    Lập Kế Hoạch
+                                    Giao tiếp hiệu quả
+                                    Xây Dựng Chiến Lược
+                                    Kỹ Năng Trình Bày",3 người
+1751525598-90,"Business Analyst (Edtech, F&B)",CÔNG TY CỔ PHẦN AUTHENTIC EDUCATION HUB,Trên 5 năm,25 - 35 triệu,"5 BT2, Khu đô thị Mễ Trì Hạ, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội, Việt Nam",Giáo dục / Đào tạo,"Thời gian làm việc
+                        
+                                                            Thứ 2 - Thứ 6 (từ 08:00 đến 18:00)
+                                                            Nghỉ trưa 1 tiếng 15p","Số 5 BT2, Khu đô thị Mễ Trì Hạ, phường Mễ Trì, Nam Từ Liêm","Viết Báo Cáo
+                                    Phân Tích Nghiệp Vụ
+                                    Thu Thập Và Phân Tích Dữ Liệu
+                                    Xây Dựng Mô Hình Dữ Liệu",1 người
