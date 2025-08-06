@@ -18,20 +18,17 @@ Trong file README.md này sẽ là giải thích thứ tự file nên đọc the
 ## Mục đích phân tích
 Các ứng viên cho vị trí Business Analyst luôn dồi dào, và đều là những con người vô cùng tiềm năng. Họ dành những năm tháng đại học vô cùng nỗ lực để theo đuổi một nghề đòi hỏi 
 sự tư duy cao, cũng như khả năng làm việc với khách hàng tốt. Công việc Business Analyst được coi là vô cùng quan trọng đối với doanh nghiệp, theo tác giả thấy, vì đây là công nghệ
-mang tính chất cầu nối giữa con người với con người. Tôi có một cô bạn gái đang làm Business Analyst, và tôi cảm thấy cô ấy đang đóng góp vô cùng nhiều vào việc xây dựng hệ thống 
-quản trị doanh nghiệp của công ty, cũng như làm cầu nối để công ty có thể hiểu được nghiệp vụ yêu cầu bởi các khách hàng.
+mang tính chất cầu nối giữa con người với con người. Bạn gái của tôi hiện đang làm Business Analyst, và tôi cảm thấy cô ấy đang đóng góp vô cùng nhiều không chỉ vào việc xây dựng hệ thống 
+quản trị doanh nghiệp của công ty, mà còn là cầu nối để công ty có thể hiểu được nghiệp vụ yêu cầu bởi các khách hàng, và cả hiểu lẫn nhau.
 <br>
 <br>
-Tuy vậy, một trong những cái đau đáu nhất của tác giả, kể cả trong những ngành nghề khác, đó là không biết bắt đầu từ đâu. Có lẽ các bạn sinh viên đang đeo đuổi một nghề nào đó, như DA, BA... đều đang vô cùng 
-hoang mang. DA chỉ cần vẽ mấy cái chart, BA thì cần lắm mồm... và các bạn chẳng còn biết mình cần học gì để trở thành một người làm những công việc đó nữa. Không những vậy, lùa gà thì khắp mọi nơi, thi thoảng
-lại một ẩn danh đăng tin tuyển dụng tiêu cực, thi thoảng lại có người nhận định thị trường xấu, lại người xuống bình luận gửi, spam một đống khóa học, trung tâm... Tôi căm ghét những con người đó vô cùng, chúng
-lợi dụng tâm lý hoang mang của người mới bắt đầu, người không có thời gian tìm hiểu để quảng bá, tạo tiếng vang, tiếng lợi cho chúng.
+Tuy vậy, một trong những chi tiết đau đáu nhất, kể cả trong những ngành nghề khác, đó là không biết bắt đầu từ đâu. Có lẽ các bạn sinh viên đang đeo đuổi một nghề nào đó, như DA, BA... đều vô cùng hoang mang. DA chỉ cần vẽ mấy cái chart, BA thì cần lắm mồm... và các bạn chẳng còn biết mình cần học gì để trở thành một người làm những công việc đó nữa. Không những vậy, lùa gà thì khắp mọi nơi, thi thoảng lại một ẩn danh đăng tin tuyển dụng tiêu cực, thi thoảng lại có người nhận định thị trường xấu, lại người xuống bình luận gửi, spam một đống khóa học, trung tâm... Tôi căm ghét những con người đó vô cùng, chúng lợi dụng tâm lý hoang mang của người mới bắt đầu, người không có thời gian tìm hiểu để quảng bá, tạo tiếng vang, tiếng lợi cho chúng.
 <br>
 <br>
-Tôi cũng rất tự hào vì người yêu tôi rất giỏi, nhưng cô ấy muốn phát triển hơn nữa, dù gần như cô ấy biết mọi thứ về BA rồi, nhưng tham vọng phải luôn luôn là vô đáy. Vấn đề là công việc chiếm rất nhiều thời gian, lên mạng thì toàn mấy người đăng tin tiêu cực. Dĩ nhiên là người yêu tôi không tiêu cực, nhưng tôi ước mình có thể giúp cô ấy phần nào. Và thế là dự án này ra đời.
+Tôi cũng rất tự hào vì người yêu tôi rất giỏi, nhưng cô ấy muốn phát triển hơn nữa, dù gần như cô ấy biết mọi thứ về BA rồi, nhưng tham vọng phải luôn luôn là vô đáy. Vấn đề là công việc chiếm rất nhiều thời gian, lên mạng thì toàn mấy người đăng tin tiêu cực, nên làm sao biết được cần học cái gì nữa đây? Dĩ nhiên là người yêu tôi không tiêu cực, nhưng tôi ước mình có thể giúp cô ấy phần nào. Và thế là dự án này ra đời.
 <br>
 <br>
-Tôi muốn các bạn sinh viên trẻ không còn hoang mang, hay những người bận rộn có thể biết tình hình thị trường mà không cần đọc từng tin tuyển dụng một. Tôi muốn họ tự tin, rằng nếu Intern không có job nào, thì bạn cần biết những kỹ năng đặc biệt này là lên thẳng Fresher làm luôn.
+Tôi muốn các bạn sinh viên trẻ không hoang mang, hay những người bận rộn có thể biết tình hình thị trường mà không cần đọc từng tin tuyển dụng một. Tôi muốn họ tự tin, rằng nếu Intern không có job nào, thì bạn vẫn biết cần học cái gì để trở thành một Fresher.
 
 ## Thu thập dữ liệu
 Dữ liệu được cào về từ website TopCV sử dụng trình mở rộng 'Web Scraper' của Chrome. Xem thêm về trình mở rộng tại dưới này:
@@ -67,3 +64,24 @@ Cảm ơn các độc giả đã đọc tới phần này của file. Cảm ơn 
 <br>
 <br>
 <b>Liên hệ</b>: minhsatwork@gmail.com
+
+## Bonus
+Nếu đã đọc tới đây, các bạn sẽ phải nghe tôi tâm sự. Câu chuyện của tôi là một câu chuyện loằng ngoằng, dài thoòng. Tại sao á? Tôi đang là một DA, nhưng hành trình để tôi tới với nghề, được làm nghề nó rất khổ. Mặc dù ra trường thuộc hội sớm nhất từ tít tháng 2/2025, thành tích cũng ổn ổn (GPA: 3.54, song với trường kinh tế vậy là bình thường) nhưng tôi không thể kiếm nổi việc. Thực sự tôi đã nộp đơn từ năm ngoái tới năm hiện tại của dự án (2025), và tôi tính là đã có tới 64 lần hy vọng, 64 lần ứng tuyển.
+<br>
+<br>
+62 lần tôi trượt. Tôi là một người mê mệt con số 8, và nếu đam mê thần số học qq gì đó, 6+2 lại là 8. Tôi tạch ở lần tôi tự coi là may mắn nhất. Thực sự thì khi tạch lần ứng tuyển thứ 62 tôi mông lung lắm rồi. Tôi vô vọng hoàn toàn, tôi lên mạng thì ai cũng nói DA thị trường nát rồi, rác rồi. Không có gì ngoài sự tiêu cực, ai cũng bảo chỉ tuyển Senior, rồi Intern trình Middle... đủ thứ trên đời. Và tôi lạc lõng. Tôi không quen ai làm DA hết, người quen cùng lớp thì từ chối giúp tôi, có lẽ cũng vì tính tôi tệ? Tất cả mọi thứ, đã đến từ chính tôi, chính sự nỗ lực của tôi. Tôi luôn phải tự nhủ bản thân rằng chính vì mình đang đi vào cái không ai làm được, nên làm được thì sẽ rất tuyệt vời. Nhưng mà sức ép xung quanh thì vẫn vậy, bạn bè thì thằng khoe nọ, thằng khoe kia, thằng đi làm được từng này rồi các thứ. Tôi nghĩ bụng biết thế hồi đó cũng xin người thân về quê cho làm logistics giống nó, chấp nhận mình ngu nhưng mà được cái có việc, oách, đăng lên mạng được.
+<br>
+<br>
+62 lần đó là gần 1 năm của sự tự ti, tủi hổ. Tết cũng không thể vui vẻ nổi, gia đình du lịch tôi cũng ái ngại.
+<br>
+<br>
+Nhưng đó cũng là 62 lần tự học. Đôi khi tôi nghĩ mình chưa thất bại bao giờ, vậy đây chính là cái cớ để thành công. Và lần 63 và 64 tôi đã pass, thậm chí tôi phỏng vấn 2 công ty cùng 1 ngày và pass cả 2 =))). Tôi cảm thấy mình vẫn rất may mắn, vì những lúc tôi chẳng còn điểm tựa chó nào, thì đã có tình yêu ở cạnh. Đó là tình yêu cuộc đời, yêu được làm DA và hơn cả, tình yêu từ gia đình và người yêu của mình. Trung tâm có tốt, có xấu. Nhưng tôi mong họ có trách nhiệm với hành động của mình, vì việc các bạn đăng tải tiêu cực lên, khiến mọi người lo sợ để bán mấy khóa học rẻ rách tiền triệu của mình cam kết 100% có việc làm, tôi nhổ vào bãi khóa học đó. Làm gì thì làm, đừng làm cho mọi thứ tiêu cực, đừng nói rằng nếu không làm A thì không thể làm B và đừng cam kết cái gì nếu không làm được. Tôi không bỏ tiền ra mua khóa nào của các bạn hết.
+<br>
+<br>
+Cuộc đời tôi là chứng minh người khác sai. Nếu bạn là học sinh trường làng thì đừng mơ tiếng Anh giỏi, tôi đáp vào mồm trường chuyên 1 con 8.0. Thực tập rất khó xin việc, đáp vào mồm họ job Fresher. DA khó xin việc, tôi đáp vào mồm họ 1 công việc. Mấy cái này nghe self-help thật, nhưng mà tôi chẳng bày cho các bạn làm cái này thì phải làm như này hay gì hết, tôi khuyến khích việc tự học, tự nghiên cứu trước khi làm bất cứ điều gì.
+<br>
+<br>
+Nhưng thành thật mà nói, tôi từng súc vật hơn cả các bạn. Tôi chỉ không cần suy nghĩ mỗi cái không trả tiền thuê nhà hàng tháng thôi, cũng hơn khối người nhưng mà tôi cũng đã từng rất súc vật và khổ sở vì không xin được việc đấy. 
+<br>
+<br>
+Vậy nên nỗ lực đi. Nỗ lực đi các bạn rồi sẽ thành công thôi.
