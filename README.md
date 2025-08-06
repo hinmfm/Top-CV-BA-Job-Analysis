@@ -10,7 +10,7 @@ Dự án gồm các mục sau:
 Trong file README.md này sẽ là giải thích thứ tự file nên đọc theo và giải thích tổng quan về mỗi file sẽ bao gồm những gì. File cũng sẽ có một danh mục nội dung phía dưới đây để phục vụ cho việc tra cứu.
 ## Danh mục nội dung
 - [Mục đích phân tích](#Mục-đích-phân-tích)
-- [Thu thập dữ liệu](#Thu-thập=dữ-liệu)
+- [Thu thập dữ liệu](#Thu-thập-dữ-liệu)
 - [Công nghệ sử dụng](#Công-nghệ-sử-dụng)
 - [Giải thích cấu trúc](#Giải-thích-cấu-trúc)
 - [Lời kết](#Lời-kết)
