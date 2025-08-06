@@ -2,7 +2,7 @@
 Dự án phân tích dữ liệu với dữ liệu được cào về từ Top CV nhằm phân tích tình hình thị trường công việc BA tại Hà Nội.
 Dự án gồm các mục sau: 
 1. [Mục đích phân tích](#Mục-đích-phân-tích) 
-2. [Thu thập dữ liệu](#Thu-thập=dữ-liệu)
+2. [Thu thập dữ liệu](#Thu-thập-dữ-liệu)
 3. [Xử lý & làm sạch dữ liệu](https://github.com/hinmfm/Top-CV-BA-Job-Analysis/tree/main/processing-with-python)
 4. [Phân tích dữ liệu](https://github.com/hinmfm/Top-CV-BA-Job-Analysis/tree/main/end-product)
 5. [Kể chuyện qua dữ liệu](https://github.com/hinmfm/Top-CV-BA-Job-Analysis/tree/main/end-product/infographics%20%26%20powerbi)
